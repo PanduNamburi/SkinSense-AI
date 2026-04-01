@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854439364862",
+    "project_id": "skinsense-ai-fff8b",
+    "storage_bucket": "skinsense-ai-fff8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854439364862:android:6b1a9687e050383143fdaf",
+        "android_client_info": {
+          "package_name": "com.skinsense.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854439364862-c6jj6pqt3n8akpbekcipq4qkrimf0fo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skinsense.ai",
+            "certificate_hash": "b7d7c3ede5495c05a40f92ce884f0a83bbd55b2a"
+          }
+        },
+        {
+          "client_id": "854439364862-pjheglo6fa60gm0u56fn52f1h5457gip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSC4KDVyB-pDJmdL1_aly73xASa7y1Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854439364862-pjheglo6fa60gm0u56fn52f1h5457gip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

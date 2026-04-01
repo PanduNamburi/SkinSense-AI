@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">स्किनसेंस AI</string>
+    <!-- Common -->
+    <string name="common_ok">ठीक है</string>
+    <string name="common_cancel">रद्द करें</string>
+    <string name="common_retry">पुनः प्रयास करें</string>
+    <string name="common_save">सहेजें</string>
+    <string name="common_edit">संपादित करें</string>
+    <string name="common_delete">हटाएं</string>
+    <string name="common_loading">लोड हो रहा है...</string>
+    <string name="common_gender">लिंग</string>
+    <string name="common_age">आयु</string>
+    <string name="common_full_name">पूरा नाम</string>
+    <string name="common_email">ईमेल पता</string>
+    <string name="common_password">पासवर्ड</string>
+    <string name="common_understood">समझ गया</string>
+    <string name="btn_back">पीछे</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_scan">स्कैन</string>
+    <string name="nav_chatbot">AI चैटबॉट</string>
+    <string name="nav_consult">परामर्श</string>
+    <string name="nav_chats">चैट</string>
+    <string name="nav_library">लाइब्रेरी</string>
+    <string name="nav_dashboard">डैशबोर्ड</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+    <string name="nav_admin_dashboard">एडमिन डैशबोर्ड</string>
+    <string name="nav_sign_out">साइन आउट</string>
+    <string name="clinical_assistant">क्लिनिकल सहायक</string>
+    <string name="doctor_portal">डॉक्टर पोर्टल</string>
+    <string name="menu_description">मेन्यू</string>
+
+    <!-- Home Screen -->
+    <string name="hero_title">पेशेवर त्वचा स्वास्थ्य विश्लेषण</string>
+    <string name="hero_subtitle">त्वरित विश्लेषण। नैदानिक सुस्पष्टता। 60 सेकंड में परिणाम।</string>
+    <string name="cta_start_analysis">अपना विश्लेषण शुरू करें</string>
+    <string name="trust_reliability">विश्वास और विश्वसनीयता</string>
+    <string name="stat_accuracy_label">सटीकता दर</string>
+    <string name="stat_conditions_label">त्वचा की स्थितियां</string>
+    <string name="stat_time_label">विश्लेषण समय</string>
+    <string name="secure_confidential">सुरक्षित और गोपनीय</string>
+    <string name="privacy_description">आपका डेटा एन्क्रिप्टेड और निजी है। हम आपकी तस्वीरें किसी के साथ साझा नहीं करते हैं।</string>
+    
+    <!-- Auth Screen -->
+    <string name="login_title_patient">स्वागत है</string>
+    <string name="login_subtitle_patient">अपनी देखभाल यात्रा जारी रखने के लिए साइन इन करें।</string>
+    <string name="login_identifier">सुरक्षित पहचानकर्ता</string>
+    <string name="login_access_key">एक्सेस की</string>
+    <string name="login_btn">सुरक्षित लॉगिन शुरू करें</string>
+    <string name="login_biometric_btn">फिंगरप्रिंट से लॉगिन करें</string>
+    <string name="login_new_patient">नए मरीज? </string>
+    <string name="login_request_access">पहुंच का अनुरोध करें</string>
+    
+    <!-- Sign Up Screen -->
+    <string name="signup_title_patient">मरीज खाता बनाएं</string>
+    <string name="signup_subtitle_patient">आज ही स्वस्थ त्वचा की ओर अपनी यात्रा शुरू करें।</string>
+    <string name="signup_health_consent">स्वास्थ्य डेटा सहमति</string>
+    <string name="signup_consent_desc">अपनी त्वचा की स्थिति के एआई विश्लेषण की अनुमति दें।</string>
+    <string name="signup_btn">खाता बनाएं</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">प्रोफ़ाइल</string>
+    <string name="profile_edit_btn">प्रोफ़ाइल संपादित करें</string>
+    <string name="profile_patient_id">मरीज आईडी</string>
+    <string name="profile_medical_details">चिकित्सा विवरण</string>
+    <string name="profile_view_history">इतिहास देखें</string>
+    <string name="profile_download_records">मेडिकल रिकॉर्ड डाउनलोड करें</string>
+    <string name="profile_security_settings">सुरक्षा सेटिंग्स</string>
+    <string name="profile_biometric_login">बायोमेट्रिक लॉगिन</string>
+    <string name="profile_sign_out">साइन आउट</string>
+    <string name="profile_delete_account">खाता हटाएं</string>
+    <string name="profile_language">भाषा</string>
+    <string name="profile_select_language">भाषा चुनें</string>
+
+    <!-- History Screen -->
+    <string name="history_title">इतिहास</string>
+    <string name="history_clear_all">सभी साफ़ करें</string>
+    <string name="history_empty_title">कोई स्कैन नहीं मिला</string>
+    <string name="history_empty_desc">आपका विश्लेषण इतिहास यहां दिखाई देगा।</string>
+    <!-- Landing Screen -->
+    <string name="landing_precision">सटीकता</string>
+    <string name="landing_dermatology">डर्मेटोलॉजी AI</string>
+    <string name="landing_tagline">आर्टिफिशियल इंटेलिजेंस द्वारा संचालित उन्नत त्वचा स्वास्थ्य निगरानी।</string>
+    <string name="landing_welcome">वापसी पर स्वागत है</string>
+    <string name="landing_select_profile">अपना डैशबोर्ड देखने के लिए अपनी प्रोफ़ाइल चुनें</string>
+    <string name="role_patient">मरीज</string>
+    <string name="role_patient_desc">अपनी त्वचा के स्वास्थ्य की निगरानी और ट्रैकिंग करें।</string>
+    <string name="role_doctor">त्वचा विशेषज्ञ</string>
+    <string name="role_doctor_desc">मरीजों और क्लिनिकल डेटा का प्रबंधन करें।</string>
+    <string name="role_admin">प्रशासक</string>
+    <string name="role_admin_desc">सिस्टम प्रबंधन और एनालिटिक्स।</string>
+    <string name="btn_continue">जारी रखें</string>
+
+    <!-- Photo Guidelines -->
+    <string name="guidelines_title">बेहतर विश्लेषण के लिए फोटो टिप्स</string>
+    <string name="guidelines_desc">उच्च गुणवत्ता वाली तस्वीरें हमारे मेडिकल-ग्रेड AI से सबसे सटीक परिणाम सुनिश्चित करती हैं।</string>
+    <string name="guidelines_clear_title">साफ तस्वीरें</string>
+    <string name="guidelines_clear_desc">सुनिश्चित करें कि त्वचा का क्षेत्र स्पष्ट फोकस में है और बिना धुंधलेपन के दिखाई दे रहा है।</string>
+    <string name="guidelines_lighting_title">अच्छी लाइटिंग</string>
+    <string name="guidelines_lighting_desc">प्राकृतिक दिन की रोशनी या उज्ज्वल इनडोर लाइटिंग का उपयोग करें; गहरी छाया से बचें।</string>
+    <string name="guidelines_angles_title">विभिन्न कोण</string>
+    <string name="guidelines_angles_desc">बेहतर संदर्भ के लिए विभिन्न दृष्टिकोणों से 2-3 तस्वीरें लें।</string>
+    <string name="guidelines_close_title">करीबी दृश्य</string>
+    <string name="guidelines_close_desc">कैमरे को इस तरह रखें कि प्रभावित क्षेत्र फ्रेम के केंद्र में रहे।</string>
+    <string name="guidelines_top_bar">कैप्चर निर्देश</string>
+    <string name="guidelines_disclaimer">परिणाम केवल सांकेतिक और संदर्भ के लिए हैं।</string>
+    <string name="metric_conditions">स्थितियां</string>
+    <string name="metric_accuracy">सटीकता</string>
+    <string name="metric_analysis">विश्लेषण</string>
+    <string name="btn_continue_upload">अपलोड पर जाएं</string>
+    <string name="guidelines_privacy">जारी रखकर, आप हमारी स्वास्थ्य डेटा गोपनीयता नीति से सहमत हैं</string>
+    <string name="footer_copyright">© 2026 SkinSense AI. सर्वाधिकार सुरक्षित।</string>
+    <string name="footer_branding">SkinSense AI</string>
+
+    <!-- Results Screen -->
+    <string name="results_report">विश्लेषण रिपोर्ट</string>
+    <string name="results_sample">विश्लेषित नमूना</string>
+    <string name="results_insight">क्लिनिकल अंतर्दृष्टि</string>
+    <string name="results_symptoms">संभावित लक्षण</string>
+    <string name="results_disclaimer">यह AI-जनरेटेड विश्लेषण केवल सूचनात्मक उद्देश्यों के लिए है। औपचारिक निदान के लिए किसी विशेषज्ञ से परामर्श आवश्यक है।</string>
+    <string name="results_confidence">AI विश्वास</string>
+    <string name="results_consultation">पेशेवर परामर्श</string>
+    <string name="results_confirmation">हमारे प्रमाणित विशेषज्ञों में से किसी एक के साथ %1$s की क्लिनिकल पुष्टि प्राप्त करें।</string>
+    <string name="btn_locate_specialist">विशेषज्ञ का पता लगाएं</string>
+    <string name="login_forgot_password">भूल गए?</string>
+    <string name="login_placeholder_patient">मरीज आईडी या उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="login_placeholder_doctor">चिकित्सक क्रेडेंशियल दर्ज करें</string>
+    <string name="login_placeholder_admin">प्रशासक आईडी दर्ज करें</string>
+    <string name="login_not_registered">पंजीकृत नहीं हैं? </string>
+    <string name="login_title_admin">प्रशासक नियंत्रण</string>
+    <string name="login_subtitle_admin">प्लेटफॉर्म प्रशासन तक सुरक्षित पहुंच।</string>
+    <string name="login_biometric_title">बायोमेट्रिक लॉगिन</string>
+    <string name="login_biometric_subtitle">अपने खाते तक पहुंचने के लिए प्रमाणित करें</string>
+    <string name="login_btn_patient">साइन इन करें</string>
+    <string name="login_btn_doctor">सत्यापित करें और प्रवेश करें</string>
+    <string name="login_btn_admin">प्रशासनिक पहुंच</string>
+    <string name="login_new_to_skinsense">SkinSense में नए हैं? </string>
+    <string name="login_create_account">खाता बनाएं</string>
+
+    <!-- Chatbot Screen -->
+    <string name="chat_clear_title">चैट साफ़ करें?</string>
+    <string name="chat_clear_desc">इस बातचीत के सभी संदेश स्थायी रूप से हटा दिए जाएंगे।</string>
+    <string name="chat_clear_btn">साफ़ करें</string>
+    <string name="chat_cancel_btn">रद्द करें</string>
+    <string name="chat_header_title">स्किनसेंस AI चैटबॉट</string>
+    <string name="chat_header_subtitle">डर्मेटोलॉजी AI सहायक</string>
+    <string name="chat_welcome_title">नमस्ते! मैं आपका त्वचा स्वास्थ्य सहायक हूँ।</string>
+    <string name="chat_welcome_desc">मुझसे त्वचा की स्थिति, लक्षण या स्किनकेयर टिप्स के बारे में कुछ भी पूछें।</string>
+    <string name="chat_try_asking">पूछने का प्रयास करें:</string>
+    <string name="chat_input_placeholder">त्वचा की स्थितियों के बारे में पूछें...</string>
+    <string name="signup_failed_title">साइन अप विफल रहा</string>
+    <string name="signup_doctor_success_title">आवेदन जमा कर दिया गया</string>
+    <string name="signup_doctor_success_msg">आपका चिकित्सा खाता सत्यापन के लिए जमा कर दिया गया है। हमारा मेडिकल समीक्षा बोर्ड 24-48 घंटों के भीतर आपके क्रेडेंशियल्स को सत्यापित करेगा।</string>
+    <string name="btn_return_login">लॉगिन पर वापस लौटें</string>
+    <string name="signup_placeholder_name">अपना पूरा नाम दर्ज करें</string>
+    <string name="signup_placeholder_password">एक मजबूत पासवर्ड बनाएं</string>
+    <string name="gender_male">पुरुष</string>
+    <string name="gender_female">महिला</string>
+    <string name="gender_other">अन्य</string>
+    <string name="age_placeholder">जैसे 23</string>
+    <string name="signup_title_doctor_portal">चिकित्सा विशेषज्ञ पोर्टल</string>
+    <string name="signup_subtitle_doctor">कुलीन चिकित्सा पेशेवरों के हमारे नेटवर्क में शामिल हों।</string>
+    <string name="signup_license_label">चिकित्सा लाइसेंस</string>
+    <string name="signup_placeholder_license">MLN-8829340</string>
+    <string name="signup_specialization_label">प्राथमिक विशेषज्ञता</string>
+    <string name="spec_dermatologist">त्वचा विशेषज्ञ</string>
+    <string name="spec_gp">सामान्य चिकित्सक</string>
+    <string name="spec_surgeon">प्लास्टिक सर्जन</string>
+    <string name="spec_esthetician">एस्थेटिशियन</string>
+    <string name="spec_researcher">नैदानिक शोधकर्ता</string>
+    <string name="signup_email_label">पेशेवर ईमेल</string>
+    <string name="signup_placeholder_email">doctor@hospital.org</string>
+    <string name="signup_placeholder_doctor_name">डॉ. जूलियन पियर्स</string>
+    <string name="signup_password_label">खाता पासवर्ड</string>
+    <string name="btn_complete_registration">पंजीकरण पूरा करें</string>
+    <string name="upload_title">फोटो अपलोड करें</string>
+    <string name="upload_instruction">सुनिश्चित करें कि क्षेत्र अच्छी तरह से प्रकाशित है और फोकस में है। सर्वोत्तम परिणामों के लिए, प्रभावित त्वचा को फ्रेम के केंद्र में रखें।</string>
+    <string name="upload_zone_hint">त्वचा की फोटो अपलोड करने के लिए टैप करें</string>
+    <string name="upload_formats">समर्थित प्रारूप: JPG, PNG</string>
+    <string name="upload_analyzing">छवि का विश्लेषण किया जा रहा है...</string>
+    <string name="upload_success">छवि सफलतापूर्वक सत्यापित की गई!</string>
+    <string name="upload_failed">छवि खोलने में विफल। कृपया पुन: प्रयास करें।</string>
+    <string name="upload_btn_camera">फोटो खींचें</string>
+    <string name="upload_btn_gallery">गैलरी</string>
+    <string name="upload_list_title">अपलोड की गई तस्वीरें</string>
+    <string name="upload_tip_title">सुझाव:</string>
+    <string name="upload_tip_msg">स्पष्ट, क्लोज-अप तस्वीरें हमारे AI को अधिक सटीक पहचान परिणाम प्रदान करने में मदद करती हैं। धुंधली या गहरी छवियों से बचें।</string>
+    <string name="upload_top_bar">त्वचा को स्कैन करें</string>
+
+    <!-- Find Doctor Screen -->
+    <string name="find_doctor_title">विशेषज्ञ खोजें</string>
+    <string name="find_doctor_map">मैप पर जाएं</string>
+    <string name="find_doctor_list">सूची पर जाएं</string>
+    <string name="find_doctor_search_hint">नाम या विशेषज्ञता के आधार पर खोजें</string>
+    <string name="find_doctor_searching">खोज रहा हूँ...</string>
+    <string name="find_doctor_registered">पंजीकृत विशेषज्ञ</string>
+    <string name="find_doctor_connected">जुड़े हुए</string>
+    <string name="find_doctor_specialist_label">विशेषज्ञ</string>
+    <string name="find_doctor_reviews">समीक्षाएं</string>
+    <string name="find_doctor_exp">%1$d वर्ष का अनुभव</string>
+    <string name="btn_message">संदेश</string>
+    <string name="btn_pending">लंबित</string>
+    <string name="btn_connect">जुड़ें</string>
+    <string name="find_doctor_clinics">आस-पास के अस्पताल और क्लीनिक</string>
+    <string name="find_doctor_distance">%1$.1f किमी दूर</string>
+    <string name="find_doctor_request_sent">डॉ. %1$s को अनुरोध भेजा गया</string>
+    <string name="find_doctor_request_failed">अनुरोध भेजने में विफल</string>
+    <string name="find_doctor_reviews_count">%1$d समीक्षाएं</string>
+    <string name="common_error">त्रुटि: %1$s</string>
+    <string name="all">सभी</string>
+    <string name="common">सामान्य</string>
+    <string name="rare">दुर्लभ</string>
+    <string name="aliases">अन्य नाम</string>
+    <string name="causes">कारण</string>
+    <string name="risk_factors">जोखिम कारक</string>
+    <string name="recommended_actions">अनुशंसित क्रियाएं</string>
+    <string name="btn_remove">हटाएं</string>
+    <string name="btn_delete">मिटाएं</string>
+    <string name="library_count_label">%1$d त्वचा स्थितियों के बारे में जानें</string>
+    <string name="risk_label">जोखिम</string>
+    <string name="access_level_prompt">अपना पहुंच स्तर चुनें</string>
+    <string name="login_branding_subtitle">एकीकृत पहुंच पोर्टल</string>
+    <string name="stat_accuracy_value">97%</string>
+    <string name="stat_conditions_value">10+</string>
+    <string name="stat_time_value">&lt;60s</string>
+    <string name="btn_analyze">विश्लेषण करें</string>
+    <string name="choose_language_title">अपनी भाषा चुनें</string>
+    <string name="choose_language_subtitle">जारी रखने के लिए एक भाषा चुनें</string>
+</resources>

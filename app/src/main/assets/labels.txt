@@ -1,0 +1,11 @@
+Acne
+Actinic_Keratosis
+Benign_tumors
+Candidiasis
+Eczema
+Psoriasis
+Rosacea
+Seborrh_Keratoses
+SkinCancer
+Vitiligo
+Warts

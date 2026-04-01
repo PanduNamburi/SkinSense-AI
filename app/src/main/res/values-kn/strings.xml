@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಸ್ಕಿನ್ ಸೆನ್ಸ್ AI</string>
+    <!-- Common -->
+    <string name="common_ok">ಸರಿ</string>
+    <string name="common_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="common_retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="common_save">ಉಳಿಸಿ</string>
+    <string name="common_edit">ಸಂಪಾದಿಸಿ</string>
+    <string name="common_delete">ಅಳಿಸಿ</string>
+    <string name="common_loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="common_gender">ಲಿಂಗ</string>
+    <string name="common_age">ವಯಸ್ಸು</string>
+    <string name="common_full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="common_email">ಇಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="common_password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="common_understood">ಅರ್ಥವಾಯಿತು</string>
+    <string name="btn_back">ಹಿಂದೆ</string>
+    <string name="nav_home">ಮುಖಪುಟ</string>
+    <string name="nav_history">ಇತಿಹಾಸ</string>
+    <string name="nav_scan">ಸ್ಕ್ಯಾನ್</string>
+    <string name="nav_chatbot">AI ಚಾಟ್‌ಬಾಟ್</string>
+    <string name="nav_consult">ಸಂದರ್ಶನ</string>
+    <string name="nav_chats">ಚಾಟ್‌ಗಳು</string>
+    <string name="nav_library">ಲೈಬ್ರರಿ</string>
+    <string name="nav_dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="nav_admin_dashboard">ಅಡ್ಮಿನ್ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="nav_sign_out">ಸೈನ್ ಔಟ್</string>
+    <string name="clinical_assistant">ಕ್ಲಿನಿಕಲ್ ಸಹಾಯಕ</string>
+    <string name="doctor_portal">ಡಾಕ್ಟರ್ ಪೋರ್ಟಲ್</string>
+    <string name="menu_description">ಮೆನು</string>
+
+    <!-- Home Screen -->
+    <string name="hero_title">ವೃತ್ತಿಪರ ಚರ್ಮದ ಆರೋಗ್ಯ ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="hero_subtitle">ತಕ್ಷಣದ ವಿಶ್ಲೇಷಣೆ. ನಿಖರ ಫಲಿತಾಂಶಗಳು. 60 ಸೆಕೆಂಡುಗಳಲ್ಲಿ.</string>
+    <string name="cta_start_analysis">ವಿಶ್ಲೇಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="trust_reliability">ನಂಬಿಕೆ ಮತ್ತು ವಿಶ್ವಾಸಾರ್ಹತೆ</string>
+    
+    <!-- Auth Screen -->
+    <string name="login_title_patient">ಸ್ವಾಗತ</string>
+    <string name="login_subtitle_patient">ಮುಂದುವರಿಯಲು ಲಾಗಿನ್ ಮಾಡಿ.</string>
+    <string name="login_btn">ಸುರಕ್ಷಿತ ಲಾಗಿನ್ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="login_biometric_btn">ಫಿಂಗರ್ಪ್ರಿಂಟ್ ಮೂಲಕ ಲಾಗಿನ್ ಮಾಡಿ</string>
+    
+    <!-- Sign Up Screen -->
+    <string name="signup_title_patient">ರೋಗಿಯ ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="signup_btn">ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">ಪ್ರೊಫೈಲ್</string>
+    <string name="profile_edit_btn">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ</string>
+    <string name="profile_patient_id">ರೋಗಿಯ ಐಡಿ</string>
+    <string name="profile_language">ಭಾಷೆ</string>
+    <!-- Landing Screen -->
+    <string name="landing_precision">ನಿಖರತೆ</string>
+    <string name="landing_dermatology">ಚರ್ಮರೋಗ AI</string>
+    <string name="landing_tagline">ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯಿಂದ ನಡೆಸಲ್ಪಡುವ ಸುಧಾರಿತ ಚರ್ಮದ ಆರೋಗ್ಯ ಮೇಲ್ವಿಚಾರಣೆ.</string>
+    <string name="landing_welcome">ಮರಳಿ ಸ್ವಾಗತ</string>
+    <string name="landing_select_profile">ನಿಮ್ಮ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ಗೆ ಮುಂದುವರಿಯಲು ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="role_patient">ರೋಗಿ</string>
+    <string name="role_patient_desc">ನಿಮ್ಮ ಚರ್ಮದ ಆರೋಗ್ಯವನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ ಮತ್ತು ಪತ್ತೆಹಚ್ಚಿ.</string>
+    <string name="role_doctor">ಚರ್ಮರೋಗ ತಜ್ಞರು</string>
+    <string name="role_doctor_desc">ರೋಗಿಗಳು ಮತ್ತು ಕ್ಲಿನಿಕಲ್ ಡೇಟಾವನ್ನು ನಿರ್ವಹಿಸಿ.</string>
+    <string name="role_admin">ನಿರ್ವಾಹಕರು</string>
+    <string name="role_admin_desc">ಸಿಸ್ಟಮ್ ನಿರ್ವಹಣೆ ಮತ್ತು ವಿಶ್ಲೇಷಣೆ.</string>
+    <string name="btn_continue">ಮುಂದುವರಿಯಿರಿ</string>
+
+    <!-- Photo Guidelines -->
+    <string name="guidelines_title">ಉತ್ತಮ ವಿಶ್ಲೇಷಣೆಗಾಗಿ ಫೋಟೋ ಸಲಹೆಗಳು</string>
+    <string name="guidelines_desc">ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಫೋಟೋಗಳು ನಮ್ಮ ವೈದ್ಯಕೀಯ ದರ್ಜೆಯ AI ನಿಂದ ಅತ್ಯಂತ ನಿಖರವಾದ ಫಲಿತಾಂಶಗಳನ್ನು ಖಚಿತಪಡಿಸುತ್ತವೆ.</string>
+    <string name="guidelines_clear_title">ಸ್ಪಷ್ಟ ಫೋಟೋಗಳು</string>
+    <string name="guidelines_clear_desc">ಚರ್ಮದ ಪ್ರದೇಶವು ಸ್ಪಷ್ಟವಾದ ಫೋಕಸ್‌ನಲ್ಲಿದೆ ಮತ್ತು ಮಸುಕು ಇಲ್ಲದೆಯೇ ಕಾಣಿಸುತ್ತಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="guidelines_lighting_title">ಉತ್ತಮ ಬೆಳಕು</string>
+    <string name="guidelines_lighting_desc">ನೈಸರ್ಗಿಕ ಹಗಲು ಅಥವಾ ಪ್ರಕಾಶಮಾನವಾದ ಒಳಾಂಗಣ ಬೆಳಕನ್ನು ಬಳಸಿ; ಕಡು ನೆರಳುಗಳನ್ನು ತಪ್ಪಿಸಿ.</string>
+    <string name="guidelines_angles_title">ಹಲವು ಕೋನಗಳು</string>
+    <string name="guidelines_angles_desc">ಉತ್ತಮ ವಿಶ್ಲೇಷಣೆಗಾಗಿ ವಿವಿಧ ದೃಷ್ಟಿಕೋನಗಳಿಂದ 2-3 ಫೋಟೋಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.</string>
+    <string name="guidelines_close_title">ಹತ್ತಿರದ ನೋಟ</string>
+    <string name="guidelines_close_desc">ಪೀಡಿತ ಪ್ರದೇಶವು ಫ್ರೇಮ್‌ನ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವಂತೆ ಕ್ಯಾಮೆರಾವನ್ನು ಇರಿಸಿ.</string>
+    <string name="guidelines_top_bar">ಫೋಟೋ ಮಾರ್ಗಸೂಚಿಗಳು</string>
+    <string name="guidelines_disclaimer">ಫಲಿತಾಂಶಗಳು ಕೇವಲ ಸಾಂಕೇತಿಕ ಮತ್ತು ಉಲ್ಲೇಖಕ್ಕಾಗಿ ಮಾತ್ರ.</string>
+    <string name="metric_conditions">ಸ್ಥಿತಿಗಳು</string>
+    <string name="metric_accuracy">ನಿಖರತೆ</string>
+    <string name="metric_analysis">ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="btn_continue_upload">ಅಪ್‌ಲೋಡ್‌ಗೆ ಮುಂದುವರಿಯಿರಿ</string>
+    <string name="guidelines_privacy">ಮುಂದುವರಿಯುವ ಮೂಲಕ, ನೀವು ನಮ್ಮ ಆರೋಗ್ಯ ಡೇಟಾ ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ಒಪ್ಪುತ್ತೀರಿ</string>
+    <string name="footer_copyright">© 2026 ಸ್ಕಿನ್ ಸೆನ್ಸ್ AI. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.</string>
+    <string name="footer_branding">ಸ್ಕಿನ್ ಸೆನ್ಸ್ AI</string>
+
+    <!-- Results Screen -->
+    <string name="results_report">ವಿಶ್ಲೇಷಣಾ ವರದಿ</string>
+    <string name="results_sample">ವಿಶ್ಲೇಷಿಸಿದ ಮಾದರಿ</string>
+    <string name="results_insight">ಕ್ಲಿನಿಕಲ್ ಒಳನೋಟ</string>
+    <string name="results_symptoms">ಸಂಭವನೀಯ ಲಕ್ಷಣಗಳು</string>
+    <string name="results_disclaimer">ಈ AI-ಉತ್ಪಾದಿತ ವಿಶ್ಲೇಷಣೆಯು ಮಾಹಿತಿ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಮಾತ್ರ. ಔಪಚಾರಿಕ ರೋಗನಿರ್ಣಯಕ್ಕಾಗಿ ತಜ್ಞರ ಸಲಹೆ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="results_confidence">AI ವಿಶ್ವಾಸ</string>
+    <string name="results_consultation">ವೃತ್ತಿಪರ ಸಮಾಲೋಚನೆ</string>
+    <string name="results_confirmation">ನಮ್ಮ ಪ್ರಮಾಣೀಕೃತ ತಜ್ಞರಲ್ಲಿ ಒಬ್ಬರೊಂದಿಗೆ %1$s ನ ಕ್ಲಿನಿಕಲ್ ದೃಢೀಕರಣವನ್ನು ಪಡೆಯಿರಿ.</string>
+    <string name="btn_locate_specialist">ತಜ್ಞರನ್ನು ಪತ್ತೆಹಚ್ಚಿ</string>
+    <string name="login_forgot_password">ಮರೆತಿದ್ದೀರಾ?</string>
+    <string name="login_placeholder_patient">ರೋಗಿಯ ಐಡಿ ಅಥವಾ ಬಳಕೆದಾರ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="login_placeholder_doctor">ವೈದ್ಯರ ರುಜುವಾತುಗಳನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="login_placeholder_admin">ನಿರ್ವಾಹಕ ಐಡಿಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="login_not_registered">ನೋಂದಾಯಿಸಿಲ್ಲವೇ?</string>
+    <string name="login_title_admin">ನಿರ್ವಾಹಕ ನಿಯಂತ್ರಣ</string>
+    <string name="login_subtitle_admin">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಆಡಳಿತಕ್ಕೆ ಸುರಕ್ಷಿತ ಪ್ರವೇಶ.</string>
+    <string name="login_biometric_title">ಬಯೋಮೆಟ್ರಿಕ್ ಲಾಗಿನ್</string>
+    <string name="login_biometric_subtitle">ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ದೃಢೀಕರಿಸಿ</string>
+    <string name="login_btn_patient">ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="login_btn_doctor">ಪರಿಶೀಲಿಸಿ ಮತ್ತು ನಮೂದಿಸಿ</string>
+    <string name="login_btn_admin">ಆಡಳಿತಾತ್ಮಕ ಪ್ರವೇಶ</string>
+    <string name="login_new_to_skinsense">ಸ್ಕಿನ್ ಸೆನ್ಸ್‌ಗೆ ಹೊಸಬರೇ?</string>
+    <string name="login_create_account">ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+
+    <!-- Chatbot Screen -->
+    <string name="chat_clear_title">ಚಾಟ್ ಅಳಿಸುವುದೇ?</string>
+    <string name="chat_clear_desc">ಈ ಸಂಭಾಷಣೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಸಂದೇಶಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="chat_clear_btn">ಅಳಿಸು</string>
+    <string name="chat_cancel_btn">ರದ್ದುಮಾಡು</string>
+    <string name="chat_header_title">ಸ್ಕಿನ್ ಸೆನ್ಸ್ AI ಚಾಟ್‌ಬಾಟ್</string>
+    <string name="chat_header_subtitle">ಚರ್ಮರೋಗ AI ಸಹಾಯಕ</string>
+    <string name="chat_welcome_title">ನಮಸ್ತೆ! ನಾನು ನಿಮ್ಮ ಚರ್ಮದ ಆರೋಗ್ಯ ಸಹಾಯಕ.</string>
+    <string name="chat_welcome_desc">ಚರ್ಮದ ಪರಿಸ್ಥಿತಿಗಳು, ಲಕ್ಷಣಗಳು ಅಥವಾ ತ್ವಚೆಯ ಆರೈಕೆಯ ಸಲಹೆಗಳ ಬಗ್ಗೆ ನನ್ನನ್ನು ಯಾವುದನ್ನಾದರೂ ಕೇಳಿ.</string>
+    <string name="chat_try_asking">ಕೇಳಲು ಪ್ರಯತ್ನಿಸಿ:</string>
+    <string name="chat_input_placeholder">ಚರ್ಮದ ಪರಿಸ್ಥಿತಿಗಳ ಬಗ್ಗೆ ಕೇಳಿ...</string>
+    <string name="signup_failed_title">ಸೈನ್ ಅಪ್ ವಿಫಲವಾಗಿದೆ</string>
+    <string name="signup_doctor_success_title">ಅರ್ಜಿಯನ್ನು ಸಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="signup_doctor_success_msg">ನಿಮ್ಮ ವೈದ್ಯಕೀಯ ಖಾತೆಯನ್ನು ಪರಿಶೀಲನೆಗಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ. ನಮ್ಮ ವೈದ್ಯಕೀಯ ವಿಮರ್ಶೆ ಮಂಡಳಿಯು 24-48 ಗಂಟೆಗಳ ಒಳಗೆ ನಿಮ್ಮ ರುಜುವಾತುಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತದೆ.</string>
+    <string name="btn_return_login">ಲಾಗಿನ್‌ಗೆ ಹಿಂತಿರುಗಿ</string>
+    <string name="signup_placeholder_name">ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="signup_placeholder_password">ಬಲವಾದ ಪಾಸ್‌ವರ್ಡ್ ರಚಿಸಿ</string>
+    <string name="gender_male">ಪುರುಷ</string>
+    <string name="gender_female">ಮಹಿಳೆ</string>
+    <string name="gender_other">ಇತರೆ</string>
+    <string name="age_placeholder">ಉದಾಹರಣೆಗೆ 23</string>
+    <string name="signup_title_doctor_portal">ವೈದ್ಯಕೀಯ ತಜ್ಞರ ಪೋರ್ಟಲ್</string>
+    <string name="signup_subtitle_doctor">ನಮ್ಮ ಗಣ್ಯ ವೈದ್ಯಕೀಯ ವೃತ್ತಿಪರರ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸೇರಿ.</string>
+    <string name="signup_license_label">ವೈದ್ಯಕೀಯ ಪರವಾನಗಿ</string>
+    <string name="signup_placeholder_license">MLN-8829340</string>
+    <string name="signup_specialization_label">ಪ್ರಾಥಮಿಕ ಪರಿಣತಿ</string>
+    <string name="spec_dermatologist">ಚರ್ಮರೋಗ ತಜ್ಞರು</string>
+    <string name="spec_gp">ಸಾಮಾನ್ಯ ವೈದ್ಯರು</string>
+    <string name="spec_surgeon">ಪ್ಲಾಸ್ಟಿಕ್ ಸರ್ಜನ್</string>
+    <string name="spec_esthetician">ಎಸ್ಥೆಟಿಶಿಯನ್</string>
+    <string name="spec_researcher">ಕ್ಲಿನಿಕಲ್ ಸಂಶೋಧಕರು</string>
+    <string name="signup_email_label">ವೃತ್ತಿಪರ ಇಮೇಲ್</string>
+    <string name="signup_placeholder_email">doctor@hospital.org</string>
+    <string name="signup_placeholder_doctor_name">ಡಾ. ಜೂಲಿಯನ್ ಪಿಯರ್ಸ್</string>
+    <string name="signup_password_label">ಖಾತೆ ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="btn_complete_registration">ನೋಂದಣಿ ಪೂರ್ಣಗೊಳಿಸಿ</string>
+    <string name="upload_title">ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="upload_instruction">ಪ್ರದೇಶವು ಚೆನ್ನಾಗಿ ಬೆಳಗಿದೆಯೇ ಮತ್ತು ಫೋಕಸ್‌ನಲ್ಲಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ, ಪೀಡಿತ ಚರ್ಮವನ್ನು ಫ್ರೇಮ್‌ನ ಮಧ್ಯದಲ್ಲಿ ಇರಿಸಿ.</string>
+    <string name="upload_zone_hint">ಚರ್ಮದ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="upload_formats">ಬೆಂಬಲಿತ ಸ್ವರೂಪಗಳು: JPG, PNG</string>
+    <string name="upload_analyzing">ಚಿತ್ರವನ್ನು ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="upload_success">ಚಿತ್ರವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಪರಿಶೀಲಿಸಲಾಗಿದೆ!</string>
+    <string name="upload_failed">ಚಿತ್ರವನ್ನು ತೆರೆಯಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="upload_btn_camera">ಫೋಟೋ ತೆಗೆಯಿರಿ</string>
+    <string name="upload_btn_gallery">ಗ್ಯಾಲರಿ</string>
+    <string name="upload_list_title">ಅಪ್‌ಲೋಡ್ ಮಾಡಿದ ಫೋಟೋಗಳು</string>
+    <string name="upload_tip_title">ಸಲಹೆ:</string>
+    <string name="upload_tip_msg">ಸ್ಪಷ್ಟವಾದ, ಕ್ಲೋಸ್-ಅಪ್ ಫೋಟೋಗಳು ನಮ್ಮ AI ಗೆ ಹೆಚ್ಚು ನಿಖರವಾದ ಪತ್ತೆ ಫಲಿತಾಂಶಗಳನ್ನು ನೀಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಅಸ್ಪಷ್ಟ ಅಥವಾ ಗಾಢ ಚಿತ್ರಗಳನ್ನು ತಪ್ಪಿಸಿ.</string>
+    <string name="upload_top_bar">ಚರ್ಮವನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+
+    <!-- Find Doctor Screen -->
+    <string name="find_doctor_title">ತಜ್ಞರನ್ನು ಹುಡುಕಿ</string>
+    <string name="find_doctor_map">ಮ್ಯಾಪ್‌ಗೆ ಬದಲಿಸಿ</string>
+    <string name="find_doctor_list">ಪಟ್ಟಿಗೆ ಬದಲಿಸಿ</string>
+    <string name="find_doctor_search_hint">ಹೆಸರು ಅಥವಾ ವಿಶೇಷತೆಯ ಮೂಲಕ ಹುಡುಕಿ</string>
+    <string name="find_doctor_searching">ಹುಡುಕಲಾಗುತ್ತಿದೆ...</string>
+    <string name="find_doctor_registered">ನೋಂದಾಯಿತ ತಜ್ಞರು</string>
+    <string name="find_doctor_connected">ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="find_doctor_specialist_label">ತಜ್ಞರು</string>
+    <string name="find_doctor_reviews">ವಿಮರ್ಶೆಗಳು</string>
+    <string name="find_doctor_exp">%1$d ವರ್ಷಗಳ ಅನುಭವ</string>
+    <string name="btn_message">ಸಂದೇಶ</string>
+    <string name="btn_pending">ಬಾಕಿ ಇದೆ</string>
+    <string name="btn_connect">ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="find_doctor_clinics">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆಗಳು ಮತ್ತು ಕ್ಲಿನಿಕ್‌ಗಳು</string>
+    <string name="find_doctor_distance">%1$.1f ಕಿಮೀ ದೂರದಲ್ಲಿ</string>
+    <string name="find_doctor_request_sent">ಡಾ. %1$s ಅವರಿಗೆ ವಿನಂತಿ ಕಳುಹಿಸಲಾಗಿದೆ</string>
+    <string name="find_doctor_request_failed">ವಿನಂತಿ ಕಳುಹಿಸಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="find_doctor_reviews_count">%1$d ವಿಮರ್ಶೆಗಳು</string>
+    <string name="common_error">ದೋಷ: %1$s</string>
+    <string name="all">ಎಲ್ಲವೂ</string>
+    <string name="common">ಸಾಮಾನ್ಯ</string>
+    <string name="rare">ಅಪರೂಪದ</string>
+    <string name="aliases">ಎಂದೂ ಕರೆಯುತ್ತಾರೆ</string>
+    <string name="causes">ಕಾರಣಗಳು</string>
+    <string name="risk_factors">ಅಪಾಯಕಾರಿ ಅಂಶಗಳು</string>
+    <string name="recommended_actions">ಸೂಚಿಸಲಾದ ಕ್ರಮಗಳು</string>
+    <string name="btn_remove">ತೆಗೆದುಹಾಕಿ</string>
+    <string name="btn_delete">ಅಳಿಸಿ</string>
+    <string name="library_count_label">%1$d ಚರ್ಮದ ಪರಿಸ್ಥಿತಿಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ</string>
+    <string name="risk_label">ಅಪಾಯ</string>
+    <string name="access_level_prompt">ನಿಮ್ಮ ಪ್ರವೇಶ ಮಟ್ಟವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="login_branding_subtitle">ಏಕೀಕೃತ ಪ್ರವೇಶ ಪೋರ್ಟಲ್</string>
+    <string name="stat_accuracy_value">97%</string>
+    <string name="stat_conditions_value">10+</string>
+    <string name="stat_time_value">&lt;60s</string>
+    <string name="btn_analyze">ವಿಶ್ಲೇಷಿಸಿ</string>
+    <string name="choose_language_title">ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="choose_language_subtitle">ಮುಂದುವರಿಯಲು ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+</resources>

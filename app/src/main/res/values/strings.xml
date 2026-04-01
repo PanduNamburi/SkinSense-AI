@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SkinSense AI</string>
+    <!-- Common -->
+    <string name="common_ok">OK</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_save">Save</string>
+    <string name="common_edit">Edit</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_loading">Loading...</string>
+    <string name="common_gender">Gender</string>
+    <string name="common_age">Age</string>
+    <string name="common_full_name">Full Name</string>
+    <string name="common_email">Email Address</string>
+    <string name="common_password">Password</string>
+    <string name="common_understood">Understood</string>
+    <string name="btn_back">Back</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_chatbot">AI Chatbot</string>
+    <string name="nav_consult">Consult</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_admin_dashboard">Admin Dashboard</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="clinical_assistant">CLINICAL ASSISTANT</string>
+    <string name="doctor_portal">DOCTOR PORTAL</string>
+    <string name="menu_description">Menu</string>
+
+    <!-- Home Screen -->
+    <string name="hero_title">Professional-Grade Skin Insights</string>
+    <string name="hero_subtitle">Instant analysis. Clinical precision. AI-powered results within 60 seconds.</string>
+    <string name="cta_start_analysis">Start Your Analysis</string>
+    <string name="trust_reliability">Trust &amp; Reliability</string>
+    <string name="stat_accuracy_label">Accuracy\nRate</string>
+    <string name="stat_conditions_label">Conditions\nCovered</string>
+    <string name="stat_time_label">Analysis\nSpeed</string>
+    <string name="secure_confidential">Secure &amp; Confidential</string>
+    <string name="privacy_description">Your data is encrypted and private. We never share your medical photos with third parties.</string>
+    
+    <!-- Auth Screen -->
+    <string name="login_title_patient">Welcome Back</string>
+    <string name="login_subtitle_patient">Sign in to continue your care journey.</string>
+    <string name="login_title_doctor">Medical Specialist Portal</string>
+    <string name="login_subtitle_doctor">Access patient data and clinical insights.</string>
+    <string name="login_identifier">Secure Identifier</string>
+    <string name="login_access_key">Access Key</string>
+    <string name="login_btn">INITIALIZE SECURE LOGIN</string>
+    <string name="login_biometric_btn">Login with Fingerprint</string>
+    <string name="login_new_patient">New patient? </string>
+    <string name="login_request_access">Request Access</string>
+    <string name="login_pending_title">Pending Verification</string>
+    <string name="login_pending_msg">Your medical credentials are currently being verified. You will receive an email once access is granted.</string>
+    
+    <!-- Sign Up Screen -->
+    <string name="signup_title_patient">Create Patient Account</string>
+    <string name="signup_subtitle_patient">Begin your journey to healthier skin today.</string>
+    <string name="signup_health_consent">Health Data Consent</string>
+    <string name="signup_consent_desc">Allow AI analysis of your skin profile.</string>
+    <string name="signup_btn">Create Account</string>
+    <string name="signup_already_account">Already have an account? </string>
+    <string name="signup_login_link">Log In</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_edit_btn">EDIT PROFILE</string>
+    <string name="profile_patient_id">PATIENT ID</string>
+    <string name="profile_medical_details">Medical Details</string>
+    <string name="profile_view_history">View History</string>
+    <string name="profile_download_records">Download Medical Records</string>
+    <string name="profile_chronic_conditions">CHRONIC CONDITIONS</string>
+    <string name="profile_medications">MEDICATIONS</string>
+    <string name="profile_allergies">ALLERGIES</string>
+    <string name="profile_primary_doctor">PRIMARY DOCTOR</string>
+    <string name="profile_security_settings">Security Settings</string>
+    <string name="profile_biometric_login">Biometric Login</string>
+    <string name="profile_change_password">Change Password</string>
+    <string name="profile_sign_out">Sign Out</string>
+    <string name="profile_delete_account">Delete Account</string>
+    <string name="profile_delete_title">Delete Account?</string>
+    <string name="profile_delete_msg">This action cannot be undone. All your data will be permanently deleted.</string>
+    <string name="profile_delete_confirm">Delete Forever</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_select_language">Select Language</string>
+
+    <!-- History Screen -->
+    <string name="history_title">History</string>
+    <string name="history_clear_all">Clear All</string>
+    <string name="history_empty_title">No Scans Found</string>
+    <string name="history_empty_desc">Your analysis history will appear here once you perform your first skin scan.</string>
+    
+    <!-- Biometric Setup -->
+    <string name="bio_setup_title">Enable Biometric Login</string>
+    <string name="bio_setup_msg">Would you like to enable fingerprint login for faster access next time?</string>
+    <string name="bio_setup_enable">Try It Now</string>
+    <string name="bio_setup_later">Maybe Later</string>
+
+    <!-- Awareness Carousel -->
+    <string name="slide1_title">Early Detection Saves Lives</string>
+    <string name="slide1_desc">Regular skin checks find problems early.</string>
+    <string name="slide2_title">Protect Your Skin</string>
+    <string name="slide2_desc">Use sunscreen daily to prevent damage.</string>
+    <string name="slide3_title">Know Your Skin Type</string>
+    <string name="slide3_desc">Understanding skin helps in better care.</string>
+
+    <!-- Messages -->
+    <string name="msg_poor_lighting">Poor Lighting - Turn on Flash</string>
+    <string name="msg_no_predictions">No predictions found</string>
+    <string name="msg_camera_permission">Camera permission required</string>
+    
+    <!-- Google Sign In -->
+    <string name="default_web_client_id">854439364862-pjheglo6fa60gm0u56fn52f1h5457gip.apps.googleusercontent.com</string>
+    <!-- Landing Screen -->
+    <string name="landing_precision">Precision</string>
+    <string name="landing_dermatology">Dermatology AI</string>
+    <string name="landing_tagline">Advanced skin health monitoring powered by artificial intelligence.</string>
+    <string name="landing_welcome">Welcome back</string>
+    <string name="landing_select_profile">Select your profile to continue to your dashboard</string>
+    <string name="role_patient">Patient</string>
+    <string name="role_patient_desc">Monitor and track your skin health.</string>
+    <string name="role_doctor">Dermatologist</string>
+    <string name="role_doctor_desc">Manage patients and clinical data.</string>
+    <string name="role_admin">Administrator</string>
+    <string name="role_admin_desc">System management and analytics.</string>
+    <string name="btn_continue">Continue</string>
+
+    <!-- Photo Guidelines -->
+    <string name="guidelines_title">Photo Tips for Better Analysis</string>
+    <string name="guidelines_desc">High-quality photos ensure the most accurate results from our medical-grade AI.</string>
+    <string name="guidelines_clear_title">Clear Photos</string>
+    <string name="guidelines_clear_desc">Ensure the skin area is in sharp focus and clearly visible without blur.</string>
+    <string name="guidelines_lighting_title">Good Lighting</string>
+    <string name="guidelines_lighting_desc">Use natural daylight or bright indoor lighting; avoid harsh shadows.</string>
+    <string name="guidelines_angles_title">Multiple Angles</string>
+    <string name="guidelines_angles_desc">Capture 2-3 photos from different perspectives for better context.</string>
+    <string name="guidelines_close_title">Close-Up View</string>
+    <string name="guidelines_close_desc">Position the camera so the affected area fills the center of the frame.</string>
+    <string name="guidelines_top_bar">Capture Guidelines</string>
+    <string name="guidelines_disclaimer">Results are indicative and for reference only.</string>
+    <string name="metric_conditions">CONDITIONS</string>
+    <string name="metric_accuracy">ACCURACY</string>
+    <string name="metric_analysis">ANALYSIS</string>
+    <string name="btn_continue_upload">Continue to Upload</string>
+    <string name="guidelines_privacy">By continuing, you agree to our Health Data Privacy Policy</string>
+    <string name="footer_copyright">© 2026 SkinSense AI. All rights reserved.</string>
+    <string name="footer_branding">SkinSense AI</string>
+
+    <!-- Results Screen -->
+    <string name="results_report">Analysis Report</string>
+    <string name="results_sample">Analyzed Sample</string>
+    <string name="results_insight">Clinical Insight</string>
+    <string name="results_symptoms">Potential Symptoms</string>
+    <string name="results_disclaimer">This AI-generated analysis is for informational purposes only. Consultation with a specialist is required for a formal diagnosis.</string>
+    <string name="results_confidence">AI Confidence</string>
+    <string name="results_consultation">Professional Consultation</string>
+    <string name="results_confirmation">Get a clinical confirmation of %1$s with one of our certified specialists.</string>
+    <string name="btn_locate_specialist">Locate Specialist</string>
+    <string name="login_forgot_password">Forgot?</string>
+    <string name="login_placeholder_patient">Enter patient ID or username</string>
+    <string name="login_placeholder_doctor">Enter physician credentials</string>
+    <string name="login_placeholder_admin">Enter administrator ID</string>
+    <string name="login_not_registered">Not registered? </string>
+    <string name="login_title_admin">Admin Control</string>
+    <string name="login_subtitle_admin">Secure access to platform administration.</string>
+    <string name="login_biometric_title">Biometric Login</string>
+    <string name="login_biometric_subtitle">Authenticate to access your account</string>
+    <string name="login_btn_patient">Sign In</string>
+    <string name="login_btn_doctor">Verify &amp; Enter</string>
+    <string name="login_btn_admin">Administrative Access</string>
+    <string name="login_new_to_skinsense">New to SkinSense? </string>
+    <string name="login_create_account">Create Account</string>
+
+    <!-- Chatbot Screen -->
+    <string name="chat_clear_title">Clear Chat?</string>
+    <string name="chat_clear_desc">All messages in this conversation will be permanently deleted.</string>
+    <string name="chat_clear_btn">Clear</string>
+    <string name="chat_cancel_btn">Cancel</string>
+    <string name="chat_header_title">SkinSense AI Chatbot</string>
+    <string name="chat_header_subtitle">Dermatology AI Assistant</string>
+    <string name="chat_welcome_title">Hello! I\'m your skin health assistant.</string>
+    <string name="chat_welcome_desc">Ask me anything about skin conditions, symptoms, or skincare tips.</string>
+    <string name="chat_try_asking">Try asking:</string>
+    <string name="chat_input_placeholder">Ask about skin conditions...</string>
+    <string name="signup_failed_title">Sign Up Failed</string>
+    <string name="signup_doctor_success_title">Application Submitted</string>
+    <string name="signup_doctor_success_msg">Your medical account has been submitted for verification. Our medical review board will verify your credentials within 24-48 hours.</string>
+    <string name="btn_return_login">Return to Login</string>
+    <string name="signup_placeholder_name">Enter your full name</string>
+    <string name="signup_placeholder_password">Create a strong password</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_other">Other</string>
+    <string name="age_placeholder">e.g. 23</string>
+    <string name="signup_title_doctor_portal">Medical Specialist Portal</string>
+    <string name="signup_subtitle_doctor">Join our network of elite medical professionals.</string>
+    <string name="signup_license_label">Medical License</string>
+    <string name="signup_placeholder_license">MLN-8829340</string>
+    <string name="signup_specialization_label">Primary Specialization</string>
+    <string name="spec_dermatologist">Dermatologist</string>
+    <string name="spec_gp">General Practitioner</string>
+    <string name="spec_surgeon">Plastic Surgeon</string>
+    <string name="spec_esthetician">Esthetician</string>
+    <string name="spec_researcher">Clinical Researcher</string>
+    <string name="signup_email_label">Professional Email</string>
+    <string name="signup_placeholder_email">doctor@hospital.org</string>
+    <string name="signup_placeholder_doctor_name">Dr. Julian Pierce</string>
+    <string name="signup_password_label">Account Password</string>
+    <string name="btn_complete_registration">Complete Registration</string>
+    <string name="upload_title">Upload Photo</string>
+    <string name="upload_instruction">Ensure the area is well-lit and in focus. For best results, place the affected skin in the center of the frame.</string>
+    <string name="upload_zone_hint">Tap to upload skin photo</string>
+    <string name="upload_formats">SUPPORTED FORMATS: JPG, PNG</string>
+    <string name="upload_analyzing">Analyzing image...</string>
+    <string name="upload_success">Image verified successfully!</string>
+    <string name="upload_failed">Failed to open image. Please try again.</string>
+    <string name="upload_btn_camera">Take Photo</string>
+    <string name="upload_btn_gallery">Gallery</string>
+    <string name="upload_list_title">Uploaded Photos</string>
+    <string name="upload_tip_title">Tip:</string>
+    <string name="upload_tip_msg">Clear, close-up photos help our AI provide more accurate detection results. Avoid blurry or dark images.</string>
+    <string name="upload_top_bar">Scan Skin</string>
+
+    <!-- Find Doctor Screen -->
+    <string name="find_doctor_title">Find Specialist</string>
+    <string name="find_doctor_map">Switch to Map</string>
+    <string name="find_doctor_list">Switch to List</string>
+    <string name="find_doctor_search_hint">Search by name or specialization</string>
+    <string name="find_doctor_searching">Searching...</string>
+    <string name="find_doctor_registered">Registered Specialists</string>
+    <string name="find_doctor_connected">Connected</string>
+    <string name="find_doctor_specialist_label">Specialist</string>
+    <string name="find_doctor_reviews">reviews</string>
+    <string name="find_doctor_exp">%1$d yrs exp</string>
+    <string name="btn_message">Message</string>
+    <string name="btn_pending">Pending</string>
+    <string name="btn_connect">Connect</string>
+    <string name="find_doctor_clinics">Nearby Hospitals &amp; Clinics</string>
+    <string name="find_doctor_distance">%1$.1f km away</string>
+    <string name="find_doctor_request_sent">Request sent to Dr. %1$s</string>
+    <string name="find_doctor_request_failed">Failed to send request</string>
+    <string name="find_doctor_reviews_count">%1$d reviews</string>
+    <string name="common_error">Error: %1$s</string>
+    <string name="all">All</string>
+    <string name="common">Common</string>
+    <string name="rare">Rare</string>
+    <string name="aliases">Also Known As</string>
+    <string name="causes">Causes</string>
+    <string name="risk_factors">Risk Factors</string>
+    <string name="recommended_actions">Recommended Actions</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_delete">Delete</string>
+    <string name="library_count_label">Learn about %1$d skin conditions</string>
+    <string name="risk_label">RISK</string>
+    <string name="access_level_prompt">Select your access level</string>
+    <string name="login_branding_subtitle">UNIFIED ACCESS PORTAL</string>
+    <string name="stat_accuracy_value">97%</string>
+    <string name="stat_conditions_value">10+</string>
+    <string name="stat_time_value">&lt;60s</string>
+    <string name="btn_analyze">Analyze</string>
+    <string name="choose_language_title">Choose Your Language</string>
+    <string name="choose_language_subtitle">Select a language to continue</string>
+</resources>
