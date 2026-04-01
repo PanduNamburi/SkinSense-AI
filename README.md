@@ -35,8 +35,6 @@ To install the application directly onto your Android device using the APK file:
 4. **Install:** Go back, tap **Install**, and wait for the installation to finish.
 5. **Open:** Once installed, tap **Open** to launch SkinSense AI!
 
-*(Note to Developers: To build the APK from source, clone the repository, open a terminal at the project root, and run `./gradlew assembleDebug`. The generated APK will be located in `app/build/outputs/apk/debug/`)*
-
 ---
 
 ## 📖 How to Use the App
