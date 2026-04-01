@@ -1,7 +1,4 @@
 # SkinSense AI: Project Presentation Details
-
-This document contains a comprehensive breakdown of the SkinSense AI application. You can use these details to structure and fill out your PowerPoint (`.pptx`) presentation.
-
 ---
 
 ## 1. Introduction & Elevator Pitch
