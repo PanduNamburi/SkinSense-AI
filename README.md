@@ -27,13 +27,14 @@ Beyond AI analysis, SkinSense acts as a complete telehealth platform for both **
 
 ## 📥 How to Install the APK
 
-To install the application directly onto your Android device using the APK file:
+The fully compiled APK is available directly in this repository! To install the application onto your Android device:
 
-1. **Get the APK File:** Download or transfer the `app-debug.apk` file to your Android device (e.g., via Google Drive, Email, or USB transfer).
-2. **Locate the APK:** Open your device's **File Manager** and find the downloaded APK.
-3. **Allow Unknown Sources:** Tap on the APK to install it. If prompted with a security warning, tap **Settings** and toggle on **"Allow from this source"**.
-4. **Install:** Go back, tap **Install**, and wait for the installation to finish.
-5. **Open:** Once installed, tap **Open** to launch SkinSense AI!
+1. **Download the APK:** Go to the `releases/` folder in this GitHub repository and download the `SkinSenseAI-debug.apk` file.
+2. **Transfer to Device:** Transfer the downloaded APK file to your Android phone (e.g., via Google Drive, Email, or USB transfer).
+3. **Locate the APK:** Open your device's **File Manager** and find the downloaded APK.
+4. **Allow Unknown Sources:** Tap on the APK to install it. If prompted with a security warning, tap **Settings** and toggle on **"Allow from this source"**.
+5. **Install:** Go back, tap **Install**, and wait for the installation to finish.
+6. **Open:** Once installed, tap **Open** to launch SkinSense AI!
 
 ---
 
